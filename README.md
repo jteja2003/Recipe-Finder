@@ -59,11 +59,6 @@ Then, open your browser and navigate to `http://localhost:3000` to see the app i
   - HTML
   - CSS
   - JavaScript
-  - React (if applicable)
-
-- **Backend:**
-  - Node.js (if applicable)
-  - Express (if applicable)
 
 - **APIs:**
   - [Recipe API](https://spoonacular.com/food-api) (or any other recipe API you are using)
